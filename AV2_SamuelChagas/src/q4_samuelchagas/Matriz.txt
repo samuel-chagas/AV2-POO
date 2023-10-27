@@ -1,0 +1,7 @@
+MatrizA
+ 4 7 5
+ 2 1 6
+
+MatrizB
+7 8 9
+2 8 0
